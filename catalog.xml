@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:40026/ProyectoT/WSPedidos?WSDL" uri="xml-resources/web-service-references/WSPedidos_2/wsdl/localhost_40026/ProyectoT/WSPedidos.wsdl"/>
+    <system systemId="http://localhost:40026/ProyectoT/WSPedidos?xsd=1" uri="xml-resources/web-service-references/WSPedidos_2/wsdl/localhost_40026/ProyectoT/WSPedidos.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ProyectoT/WSPedidos?WSDL" uri="xml-resources/web-service-references/WSPedidos_3/wsdl/localhost_8080/ProyectoT/WSPedidos.wsdl"/>
+    <system systemId="http://localhost:8080/ProyectoT/WSPedidos?xsd=1" uri="xml-resources/web-service-references/WSPedidos_3/wsdl/localhost_8080/ProyectoT/WSPedidos.xsd_1.xsd"/>
+</catalog>
